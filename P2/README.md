@@ -13,4 +13,4 @@
 
     DUKE's 7
     One small instance of the problem is breaking down a string to individual characters. One tricky part is how to decide if a substring is palindrome. But
-    determining patterns can help with this issue by seeing if the characters repeat in order.
+    determining patterns can help with this issue by seeing if the characters repeat in order. 
